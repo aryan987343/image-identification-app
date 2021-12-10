@@ -1,0 +1,43 @@
+.header {
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.div_heading {
+    float: none;
+    background-color: white;
+    padding: 10px;
+    border-radius: 20px;
+    color:black;
+    box-shadow: 5px 5px 5px gray;
+}
+
+.things {
+    font-size: 18px;
+}
+
+.object {
+    box-shadow: 5px 5px 5px gray;
+    font-size: 20px;
+}
+
+.footer {
+    position: fixed;
+    color:white;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    line-height: 3;
+    text-align: center;
+}
+
+canvas {
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+    border-width: 5px;
+    border-style: solid;
+    border-color: white;
+    margin-top: 120px;
+}
